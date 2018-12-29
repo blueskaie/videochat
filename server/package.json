@@ -1,0 +1,10 @@
+{
+    "name": "webrtc-videochat-server",
+    "version": "0.1.0",
+    "description": "webrtc-videochat-signal-server",
+    "author": "CaesaR",
+    "license": "BSD-2-Clause",
+    "dependencies": {
+        "ws": "^6.1.2"
+    }
+}
